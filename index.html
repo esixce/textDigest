@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NLTK Data</title>
+    <script type="text/javascript">
+        var data = JSON.parse('{{ data | tojson }}');
+        console.log(data);
+    </script>
+</head>
+<body>
+    <h1>NLTK Data</h1>
+    <p>Tokens: {{ data.tokens }}</p>
+    <p>Stemmed Tokens: {{ data.stemmed_tokens }}</p>
+</body>
+</html>
