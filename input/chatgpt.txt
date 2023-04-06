@@ -47,7 +47,7 @@ If the global internet were to be significantly fractioned and miners in differe
 
 In such a scenario, users and nodes on each side of the fork would need to decide which version of the blockchain they want to support and which set of rules they want to follow. This could potentially lead to a split in the Bitcoin community, with some users and nodes supporting one version of the blockchain and others supporting a different version.
 
-If the fork were to persist for an extended period, it could result in two separate and distinct cryptocurrencies, with separate markets, exchange rates, and user bases. This has happened before in the case of other cryptocurrencies, such as Ethereum and Ethereum Classic, which forked in 2016 following a disagreement over how to handle a hack of the DAO smart contract.
+If the fork were to persist for an extended period, it could result in two separate and distinct cryptocurrencies, with separate markets, exchange rates, and user bases. This has happened before in the case of other cryptocurrencies, such as Ethereum and Ethereum Classic, which forked in two thousand and sixteen following a disagreement over how to handle a hack of the DAO smart contract.
 
 It's worth noting, however, that forking is a rare and extreme event in the Bitcoin network, and most forks that do occur are resolved quickly and with little impact on the broader network. The Bitcoin community and developers work to prevent forks and ensure the stability and security of the network.
 
